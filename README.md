@@ -61,7 +61,3 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1791-richest-customer-wealth) |
-# Interactive
-|  |
-| ------- |
-| [1185-find-in-mountain-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1185-find-in-mountain-array) |
