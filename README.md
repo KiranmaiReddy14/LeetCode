@@ -14,7 +14,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 # Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+# Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
+# Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
+# Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
