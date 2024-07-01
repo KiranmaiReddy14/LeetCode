@@ -1,11 +1,20 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        List<Integer> li = new ArrayList<>();
-        Arrays.sort(nums);
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != i)
-                return i;
+        int i = 0;
+        int len = nums.length;
+        while (i < len) {
+            int index = nums[i];
+            if (nums[i] < len && i != index) {
+                int temp = nums[i];
+                nums[i] = nums[index];
+                nums[index] = temp;
+            } else
+                i++;
         }
-        return nums.length;
+        for (int j = 0; j < len; j++) {
+            if (j != nums[j])
+                return j;
+        }
+        return len;
     }
 }
