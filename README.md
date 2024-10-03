@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
