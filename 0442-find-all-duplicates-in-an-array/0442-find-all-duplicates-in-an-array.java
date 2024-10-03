@@ -12,7 +12,6 @@ class Solution {
                 i++;
         }
         for (int j = 0; j < nums.length; j++) {
-            System.out.println(nums[j]);
             if (j + 1 != nums[j])
                 list.add(nums[j]);
         }
