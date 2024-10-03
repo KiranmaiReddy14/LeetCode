@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
