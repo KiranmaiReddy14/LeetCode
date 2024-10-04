@@ -5,17 +5,14 @@ class Solution {
         Arrays.sort(nums);
         int seq = 1;
         int count = 1;
-        int first = nums[0];
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] == first)
+            if (nums[i] == nums[i - 1])
                 continue;
-            else if (nums[i] == (first + 1)) {
+            else if (nums[i] == (nums[i - 1] + 1)) {
                 seq++;
-                first = nums[i];
             } else {
-                count = seq > count ? seq : count;
+                count = Math.max(seq, count);
                 seq = 1;
-                first = nums[i];
             }
         }
         count = Math.max(count, seq);
