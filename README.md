@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Union Find
 |  |
 | ------- |
@@ -197,12 +200,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
