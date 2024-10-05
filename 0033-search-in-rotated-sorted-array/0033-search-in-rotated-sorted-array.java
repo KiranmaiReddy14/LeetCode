@@ -1,21 +1,20 @@
 class Solution {
     public int search(int[] nums, int target) {
         int peak = findPeak(nums);
-        System.out.println(peak + "    " + target + "   target");
         if (peak == -1)
-            return binarySearch(nums, 0, nums.length - 1, target);
-        if (target == nums[peak])
+            return binarySearch(nums, target, 0, nums.length - 1);
+        if (nums[peak] == target)
             return peak;
         if (target >= nums[0])
-            return binarySearch(nums, 0, peak - 1, target);
-        return binarySearch(nums, peak + 1, nums.length - 1, target);
+            return binarySearch(nums, target, 0, peak - 1);
+        else
+            return binarySearch(nums, target, peak + 1, nums.length - 1);
     }
 
-    public int binarySearch(int[] nums, int start, int end, int target) {
-        System.out.println(start + "  " + end);
+    public int binarySearch(int[] nums, int target, int start, int end) {
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            if (target == nums[mid])
+            if (nums[mid] == target)
                 return mid;
             else if (target < nums[mid])
                 end = mid - 1;
@@ -34,7 +33,7 @@ class Solution {
                 return mid;
             if (mid > start && nums[mid] < nums[mid - 1])
                 return mid - 1;
-            if (nums[mid] <=nums[start])
+            if (nums[mid] <= nums[start])
                 end = mid - 1;
             else
                 start = mid + 1;
