@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
