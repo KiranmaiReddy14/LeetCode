@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
