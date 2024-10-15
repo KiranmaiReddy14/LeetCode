@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
+| [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
 | ------- |
@@ -272,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
