@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -281,4 +283,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1304-longest-happy-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
