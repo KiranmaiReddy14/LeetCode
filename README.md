@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
