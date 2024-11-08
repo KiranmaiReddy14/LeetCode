@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
@@ -320,4 +321,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
