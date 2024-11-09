@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0075-sort-colors) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -357,4 +361,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
