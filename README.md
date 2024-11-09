@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 | [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1304-longest-happy-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1304-longest-happy-string) |
 | [2580-circular-sentence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
