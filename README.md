@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0792-binary-search) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Stack
 |  |
