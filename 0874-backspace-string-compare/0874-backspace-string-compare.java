@@ -1,26 +1,26 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        String left = "";
-        String right = "";
-        for (int i = 0, j = 0; i < s.length() || j < t.length(); i++, j++) {
-            if (i < s.length()) {
-                if (s.charAt(i) == '#' && left.length() > 0)
-                    left = left.substring(0, left.length() - 1);
-                else {
-                    if (s.charAt(i) != '#')
-                        left += s.charAt(i) + "";
-                }
-            }
-            if (j < t.length()) {
-                if (t.charAt(j) == '#' && right.length() > 0)
-                    right = right.substring(0, right.length() - 1);
-                else {
-                    if (t.charAt(j) != '#')
-                    right += t.charAt(j) + "";
-                }
+        String str1 = trimString(s);
+        String str2 = trimString(t);
+        if (str1.equalsIgnoreCase(str2))
+            return true;
+        return false;
+    }
+
+    public static String trimString(String s) {
+        StringBuilder res = new StringBuilder();
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if (ch == '#' && !res.isEmpty()) {
+                int len = res.length();
+                if (len > 0)
+                    res.deleteCharAt(len - 1);
+            } else if (ch == '#' && res.isEmpty()) {
+                continue;
+            } else {
+                res.append(ch);
             }
         }
-        System.out.println(left + " " + right);
-        return left.equals(right) ? true : false;
+        return res.toString();
     }
 }
