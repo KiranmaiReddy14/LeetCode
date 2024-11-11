@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -316,11 +317,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -375,5 +378,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
