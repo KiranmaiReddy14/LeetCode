@@ -11,8 +11,7 @@ class Solution {
     }
 
     static int DFS(List<List<Integer>> list, int s, int n) {
-        boolean[] visited = new boolean[n];
-        return DFSRecursion(list, s, visited);
+        return DFSRecursion(list, s, new boolean[n]);
     }
 
     static int DFSRecursion(List<List<Integer>> list, int s, boolean[] visited) {
