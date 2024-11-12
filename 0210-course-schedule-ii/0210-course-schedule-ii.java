@@ -1,17 +1,13 @@
 class Solution {
     public int[] findOrder(int n, int[][] prerequisites) {
         int[] nodes = new int[n];
-        //if (prerequisites.length == 0)
-          //  return nodes;
         boolean visited[] = new boolean[n];
         boolean helper[] = new boolean[n];
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
             list.add(new ArrayList<>());
-        }
-        for (int[] pre : prerequisites) {
+        for (int[] pre : prerequisites)
             list.get(pre[1]).add(pre[0]);
-        }
         Stack<Integer> stack = new Stack<>();
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
@@ -34,9 +30,9 @@ class Solution {
         ArrayList<Integer> li = list.get(s);
         for (int i = 0; i < li.size(); i++) {
             int num = li.get(i);
-            if (helper[num] == true) // cycle detected
+            if (helper[num]) // cycle detected
                 return true;
-            if (visited[num] == false) {
+            if (!visited[num]) {
                 if (DFSRecursion(list, visited, helper, stack, num))
                     return true;
             }
