@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -332,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1036-rotting-oranges) |
@@ -392,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -400,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
