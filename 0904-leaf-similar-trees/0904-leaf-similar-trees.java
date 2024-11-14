@@ -17,19 +17,19 @@ class Solution {
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
         ArrayList<Integer> list1 = new ArrayList<>();
         ArrayList<Integer> list2 = new ArrayList<>();
-        list1 = getLeafNodes(root1, list1, root1);
-        list2 = getLeafNodes(root2, list2, root2);
+        list1 = getLeafNodes(root1, list1);
+        list2 = getLeafNodes(root2, list2);
         System.out.println(list1.equals(list2));
         return list1.equals(list2);
     }
 
-    static ArrayList<Integer> getLeafNodes(TreeNode node, ArrayList<Integer> list, TreeNode root) {
+    static ArrayList<Integer> getLeafNodes(TreeNode node, ArrayList<Integer> list) {
         if (node == null)
             return list;
         if (node.left == null && node.right == null)
             list.add(node.val);
-        list = getLeafNodes(node.left, list, root);
-        list = getLeafNodes(node.right, list, root);
+        list = getLeafNodes(node.left, list);
+        list = getLeafNodes(node.right, list);
         return list;
     }
 }
