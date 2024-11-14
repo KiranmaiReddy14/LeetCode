@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Greedy
 |  |
 | ------- |
