@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
