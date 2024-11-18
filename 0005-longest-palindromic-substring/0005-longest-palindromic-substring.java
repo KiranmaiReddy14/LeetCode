@@ -3,16 +3,12 @@ class Solution {
     int low = 0;
 
     public String longestPalindrome(String s) {
-        if (s.length() <= 1)
+        if (s.length() < 2)
             return s;
-        int i = 0;
-        int j = s.length() - 1;
-        while (i < s.length() - 1) {
+        for (int i = 0; i < s.length() - 1; i++) {
             isPalindrome(s, i, i);
             isPalindrome(s, i, i + 1);
-            i++;
         }
-        System.out.println(low + "   " + len);
         return s.substring(low, low + len);
     }
 
