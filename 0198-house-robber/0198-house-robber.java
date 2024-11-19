@@ -3,12 +3,17 @@ class Solution {
         int n = nums.length;
         if (n == 1)
             return nums[0];
-        int[] dp = new int[n];
-        dp[0] = nums[0];
-        dp[1] = Math.max(nums[0], nums[1]);
-        for (int i = 2; i < n; i++) {
-            dp[i] = Math.max(dp[i - 1], nums[i] + dp[i - 2]);
+        return Math.max(getMaxRobbed(nums, 0, n - 1), getMaxRobbed(nums, 1, n - 1));
+    }
+
+    public static int getMaxRobbed(int[] nums, int start, int end) {
+        int prev = 0;
+        int max = 0;
+        for (int i = start; i <= end; i++) {
+            int robb = Math.max(max, prev + nums[i]);
+            prev = max;
+            max = robb;
         }
-        return dp[n - 1];
+        return max;
     }
 }
