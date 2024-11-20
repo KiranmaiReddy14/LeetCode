@@ -1,16 +1,16 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] setBits = new int[n + 1];
-        for (int i = 0; i < n + 1; i++) {
-            int number = i;
-            int bits = 0;
-            while (number > 0) {
-                if ((number & 1) == 1)
-                    bits++;
-                number = number >> 1;
+        int[] arr = new int[n + 1];
+        for (int i = 0; i <= n; i++) {
+            int num = i;
+            int count = 0;
+            while (num > 0) {
+                if ((num & 1) == 1)
+                    count++;
+                num = num >> 1;
             }
-            setBits[i] = bits;
+            arr[i] = count;
         }
-        return setBits;
+        return arr;
     }
 }
