@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0061-rotate-list) |
