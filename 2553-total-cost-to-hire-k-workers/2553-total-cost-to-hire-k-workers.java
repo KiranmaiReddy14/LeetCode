@@ -1,12 +1,13 @@
 class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
-        if (costs.length == 1)
+        int n = costs.length;
+        if (n == 1)
             return costs[0];
+        int l = 0;
+        int r = n - 1;
+        long cost = 0;
         PriorityQueue<Integer> left = new PriorityQueue<>();
         PriorityQueue<Integer> right = new PriorityQueue<>();
-        long sum = 0;
-        int l = 0;
-        int r = costs.length - 1;
         while (l <= r && k > 0) {
             while (left.size() < Math.min(candidates, costs.length / 2)) {
                 left.add(costs[l]);
@@ -17,18 +18,18 @@ class Solution {
                 r--;
             }
             if (!left.isEmpty() && left.peek() <= right.peek())
-                sum += left.poll();
+                cost += left.poll();
             else
-                sum += right.poll();
+                cost += right.poll();
             k--;
         }
         while (k > 0 && (!left.isEmpty() || !right.isEmpty())) {
             if (!left.isEmpty() && (right.isEmpty() || left.peek() <= right.peek()))
-                sum += left.poll();
+                cost += left.poll();
             else
-                sum += right.poll();
+                cost += right.poll();
             k--;
         }
-        return sum;
+        return cost;
     }
 }
