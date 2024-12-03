@@ -13,10 +13,7 @@ class Solution {
             sb.append(s.charAt(j));
             j++;
         }
-        while (j < s.length()) {
-            sb.append(s.charAt(j));
-            j++;
-        }
+        sb.append(s.substring(j));
         return sb.toString();
     }
 }
