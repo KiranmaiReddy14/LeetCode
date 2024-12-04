@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1304-longest-happy-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1304-longest-happy-string) |
 | [2636-maximum-subsequence-score](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2636-maximum-subsequence-score) |
