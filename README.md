@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
