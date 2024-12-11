@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
