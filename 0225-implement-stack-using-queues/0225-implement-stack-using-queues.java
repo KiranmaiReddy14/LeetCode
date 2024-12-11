@@ -1,5 +1,4 @@
 class MyStack {
-
     Queue<Integer> queue;
 
     public MyStack() {
@@ -8,15 +7,12 @@ class MyStack {
 
     public void push(int x) {
         queue.offer(x);
-        // removing all the elements till the last recently added, so always the first
-        // element that is being removed wil the recently added element
-        for (int i = 0; i < queue.size() - 1; i++) {
+        for (int i = 0; i < queue.size() - 1; i++)
             queue.offer(queue.poll());
-        }
     }
 
     public int pop() {
-        return (queue.isEmpty()) ? 0 : queue.poll();
+        return queue.isEmpty() ? 0 : queue.poll();
     }
 
     public int top() {
@@ -24,7 +20,7 @@ class MyStack {
     }
 
     public boolean empty() {
-        return queue.size() == 0 ? true : false;
+        return queue.isEmpty() ? true : false;
     }
 }
 
