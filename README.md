@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0221-maximal-square) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
