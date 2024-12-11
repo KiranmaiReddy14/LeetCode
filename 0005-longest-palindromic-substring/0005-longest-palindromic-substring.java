@@ -12,7 +12,7 @@ class Solution {
         return s.substring(low, low + len);
     }
 
-    public boolean isPalindrome(String s, int i, int j) {
+    public void isPalindrome(String s, int i, int j) {
         while (i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j)) {
             i--;
             j++;
@@ -21,6 +21,5 @@ class Solution {
             len = j - i - 1;
             low = i + 1;
         }
-        return true;
     }
 }
