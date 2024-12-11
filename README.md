@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0221-maximal-square) |
