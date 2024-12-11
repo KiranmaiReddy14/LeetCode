@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0090-subsets-ii) |
