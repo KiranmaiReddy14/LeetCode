@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0937-online-stock-span) |
 ## Graph
 |  |
 | ------- |
@@ -558,4 +561,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
