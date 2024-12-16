@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
