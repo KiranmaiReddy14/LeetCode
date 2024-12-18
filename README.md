@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0217-contains-duplicate) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -432,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
