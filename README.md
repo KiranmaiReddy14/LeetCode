@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0070-climbing-stairs) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0131-palindrome-partitioning) |
