@@ -5,6 +5,6 @@ class Solution {
             if (i + nums[i] >= target)
                 target = i;
         }
-        return target == 0;
+        return target == 0 ? true : false;
     }
 }
