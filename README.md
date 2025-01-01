@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1304-longest-happy-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1304-longest-happy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
