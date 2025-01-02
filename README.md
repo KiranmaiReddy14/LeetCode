@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3451-string-compression-iii) |
 ## Trie
