@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1524-string-matching-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1304-longest-happy-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1304-longest-happy-string) |
+| [1524-string-matching-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2580-circular-sentence) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Stack
 |  |
 | ------- |
