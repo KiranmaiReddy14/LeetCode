@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0399-evaluate-division) |
