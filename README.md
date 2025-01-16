@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Sorting
 |  |
 | ------- |
@@ -607,4 +609,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0937-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
