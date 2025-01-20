@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3195-separate-black-and-white-balls](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1304-longest-happy-string) |
 | [1524-string-matching-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1894-merge-strings-alternately](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2580-circular-sentence) |
