@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KiranmaiReddy14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
