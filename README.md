@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
