@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0940-fruit-into-baskets](https://github.com/KiranmaiReddy14/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/KiranmaiReddy14/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KiranmaiReddy14/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
